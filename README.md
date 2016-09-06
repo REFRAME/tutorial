@@ -4,8 +4,6 @@ Riva del Garda, Italy, September 19–23, 2016.
 
 
 
-ECML-PKDD 2016
-The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery will take place in Riva del Garda, Italy, during September 19–23, 2016.  
 ## Organizers 
 [Cesar Ferri](http://users.dsic.upv.es/~cferri/), [Peter Flach] (https://www.cs.bris.ac.uk/~flach/), [Meelis Kull] (http://www.bris.ac.uk/engineering/people/meelis-kull/) , [Nicolas Lachiche](http://icube-sdc.unistra.fr/fr/index.php/Nicolas_Lachiche)
 
