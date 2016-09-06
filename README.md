@@ -18,5 +18,5 @@ Link
 
 ## Bibliography
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="http://reframe-d2k.org/thumb.php?f=Logo_reframe.jpg&width=500">](Reframe)
 
