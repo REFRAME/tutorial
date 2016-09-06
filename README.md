@@ -1,7 +1,6 @@
 # Context-Aware Knowledge Discovery: Opportunities, Techniques and Applications
 Tutorial at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery [ECML](http://ecmlpkdd2016.org/)  
-Riva del Garda, Italy, during September 19–23, 2016. 
-This event is the premier European machine learning and data mining conference and builds upon a very successful series of 26 ECML and 19 PKDD conferences, which have been jointly organized for the past 15 years.
+Riva del Garda, Italy, September 19–23, 2016. 
 
 
 
