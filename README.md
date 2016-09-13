@@ -16,9 +16,13 @@ Link
 
 ## Examples
 [RegtoClass](https://github.com/ceferra/reg2class)
+
 [Cost Curves in R](https://github.com/ceferra/CostCurves_R_Example)
+
 [Calibration in R] (https://github.com/ceferra/RCalibration)
+
 [Calibration in Python] (http://scikit-learn.org/stable/auto_examples/calibration/plot_calibration_curve.html)
+
 [Precision-Recall-Gain curves] (https://github.com/meeliskull/prg)
 ## Bibliography
 
