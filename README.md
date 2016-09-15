@@ -1,5 +1,5 @@
 # Context-Aware Knowledge Discovery: Opportunities, Techniques and Applications
-Tutorial at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery [ECML16](http://ecmlpkdd2016.org/)  
+Tutorial at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery [ECML-PKDD 2016](http://ecmlpkdd2016.org/)  
 Riva del Garda, Italy, September 19–23, 2016. 
 
 
