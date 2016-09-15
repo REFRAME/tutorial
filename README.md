@@ -15,6 +15,8 @@ Traditionally, knowledge discovery aims to learn patterns from given data that a
 Link
 
 ## Examples
+[Covariate shift example](https://github.com/ceferra/CovariateShift/blob/master/Covariate_shift.ipynb)
+
 [RegtoClass](https://github.com/ceferra/reg2class)
 
 [Cost Curves in R](https://github.com/ceferra/CostCurves_R_Example)
@@ -24,7 +26,7 @@ Link
 [Calibration in Python] (http://scikit-learn.org/stable/auto_examples/calibration/plot_calibration_curve.html)
 
 [Precision-Recall-Gain curves] (https://github.com/meeliskull/prg)
-## Bibliography
+
 
 [<img src="http://reframe-d2k.org/thumb.php?f=Logo_reframe.jpg&width=500">](http://reframe-d2k.org/Main_Page)
 
