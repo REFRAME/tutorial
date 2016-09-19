@@ -27,6 +27,7 @@ Traditionally, knowledge discovery aims to learn patterns from given data that a
 
 [Precision-Recall-Gain curves] (https://github.com/meeliskull/prg)
 
+[Optimal binary threshold selection] (https://clowdflows.unistra.fr/workflow/331/) in [clowdflows.unistra.fr] (https://clowdflows.unistra.fr/)
 
 [<img src="http://reframe-d2k.org/thumb.php?f=Logo_reframe.jpg&width=500">](http://reframe-d2k.org/Main_Page)
 
